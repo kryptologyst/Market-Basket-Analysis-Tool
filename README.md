@@ -27,4 +27,3 @@ This project is an interactive web application for performing market basket anal
     - Open your web browser and navigate to the local URL provided by Streamlit.
     - Use the sidebar to upload your CSV file and adjust the analysis parameters.
     - The results will be displayed automatically.
-# Market-Basket-Analysis-Tool
