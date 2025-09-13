@@ -1,4 +1,4 @@
-# Market Basket Analysis Tool
+# Simple Market Basket Analysis Tool
 
 This project is an interactive web application for performing market basket analysis. It uses the Apriori algorithm to identify frequent itemsets and generate association rules from transactional data.
 
